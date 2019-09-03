@@ -51,7 +51,7 @@ distribution.](https://www.anaconda.com/distribution/)
 Directories
 -----------
 
-- Problems This contains the problems, with comments for students to complete
+- Problems: This contains the problems, with comments for students to complete
 to get the systems up and running.
-- Solutions Contains the solutions to the problems, with the completed code
+- Solutions: Here you can find the solutions to the previous problems, with the completed code
 running.
